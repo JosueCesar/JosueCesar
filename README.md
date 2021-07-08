@@ -15,5 +15,5 @@
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>React, React Native</strong> e <strong>Node.</strong>
+  🛠 Ferramentas: <strong>React, React Native</strong> e <strong>Node.</strong> 🦸🦸‍♂️🦸‍♀️
 </p>
