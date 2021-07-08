@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JosueCesar/JosueCesar/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1>Olá, meu nome é Josué! 🙋🏻‍♂️</h1>
 
