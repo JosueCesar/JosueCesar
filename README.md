@@ -15,9 +15,15 @@
     🎯 Linguagens que estou de olho: <strong>Elm, Dart</strong> e <strong>Go.</strong>
   </p>
 
+<<<<<<< HEAD
   <p align="left">
     🛠 Ferramentas: <strong>React, React Native</strong> e <strong>Node.</strong>
   </p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCesar)](https://github.com/JosueCesar/github-readme-stats)
+=======
+<p align="left">
+  🛠 Ferramentas: <strong>React, React Native</strong> e <strong>Node.</strong>
+</p>
+>>>>>>> ad93f8fdd843c613a832aeb2d236a5c904d36f75
