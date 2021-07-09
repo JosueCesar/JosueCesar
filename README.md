@@ -29,13 +29,15 @@
 
 <div align="left">
   <h2>Be part of our discord commnunity:</h2>
-  
-  <a href="http://discord.gg/qdRneg87Br">
-    <strong>click here to access our community</strong>
-  </a>
+
 
   <div>
+    <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="monkey typing">  
+    
     <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="200px" max-width="200px" width="200px" align="center" alt="discord badge">
-    <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="monkey typing">  
+  
+    <a href="http://discord.gg/qdRneg87Br">
+      <strong>Click here to access our community</strong>
+    </a>
   </div>
 </div>
