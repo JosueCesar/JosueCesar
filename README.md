@@ -26,8 +26,9 @@
 <div align="left">
   <h2>Be part of our discord commnunity:</h2>
 
+  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="250px" max-width="250px" width="250px" align="center" alt="discord badge">
   <a href="http://discord.gg/qdRneg87Br">
-    <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="250px" max-width="250px" width="250px" align="center" alt="discord badge">
+    click here to access our community
   </a>
 </div>
 
