@@ -1,4 +1,4 @@
-<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Coding">
 
 <div>
   <h1>Hi there, my name is Josué! 🙋🏻‍♂️</h1>
@@ -23,4 +23,12 @@
   </p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCesar)](https://github.com/JosueCesar/github-readme-stats)
+<div align="right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCesar)](https://github.com/JosueCesar/github-readme-stats)
+</div>
+
+<div align="left">
+  <h2>Be part of our discord commnunity:</h2>
+
+  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.gif" min-width="250px" max-width="250px" width="250px" align="center" alt="Hacker Coding" href="http://discord.gg/qdRneg87Br">
+</div>
