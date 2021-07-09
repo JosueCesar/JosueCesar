@@ -31,5 +31,3 @@
     click here to access our community
   </a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCesar)](https://github.com/JosueCesar/github-readme-stats)
