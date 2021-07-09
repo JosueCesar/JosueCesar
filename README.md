@@ -32,9 +32,9 @@
 
   <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="monkey typing">  
   
-  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="200px" max-width="200px" width="200px" align="center" alt="discord badge">
-
-  <a href="http://discord.gg/qdRneg87Br">
+  <a href="http://discord.gg/qdRneg87Br" align="center">
     <strong>Click here to access our community</strong>
   </a>
+  
+  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="200px" max-width="200px" width="200px" align="center" alt="discord badge">
 </div>
