@@ -36,5 +36,5 @@
     <strong>click here to access our community</strong>
   </a>
   
-  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="monkey typing">
+  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="monkey typing">
 </div>
