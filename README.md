@@ -26,7 +26,9 @@
 <div align="left">
   <h2>Be part of our discord commnunity:</h2>
 
-  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="250px" max-width="250px" width="250px" align="center" alt="discord badge" href="http://discord.gg/qdRneg87Br">
+  <a href="http://discord.gg/qdRneg87Br">
+    <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="250px" max-width="250px" width="250px" align="center" alt="discord badge">
+  </a>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCesar)](https://github.com/JosueCesar/github-readme-stats)
