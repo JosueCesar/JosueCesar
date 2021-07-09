@@ -11,20 +11,23 @@
     <br/>
   </p>
 
-  <p align="left">
-    🕹 </h3>Favorite languages:</h3> <strong>Typescript</strong> and <strong>Javascript.</strong>
-  </p>
+  <div>
+    <h3 align="left">🕹 Favorite languages:</h3>
+    <p align="left"><strong>Typescript</strong> and <strong>Javascript.</strong></p>
+  </div>
 
-  <p align="left">
-    🎯 </h3>Languages i'm looking forward to:</h3> <strong>Elm, Dart</strong> and <strong>Go.</strong>
-  </p>
+  <div>
+    <h3 align="left">🎯 Languages i'm looking forward to:</h3>
+    <p align="left"><strong>Elm, Dart</strong> and <strong>Go.</strong></p>
+  </div>
 
-  <p align="left">
-    🛠 </h3>Tools:</h3> <strong>React, React Native</strong> and <strong>Node.</strong>
-  </p>
+  <div>
+    <h3 align="left">🛠 Tools:</h3>
+    <p align="left"><strong>React, React Native</strong> and <strong>Node.</strong></p>
+  </div>
 </div>
 
-<div align="left">
+<div align="left" column>
   <h2>Be part of our discord commnunity:</h2>
 
   <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="200px" max-width="200px" width="200px" align="center" alt="discord badge">
@@ -32,4 +35,8 @@
   <a href="http://discord.gg/qdRneg87Br">
     <strong>click here to access our community</strong>
   </a>
+</div>
+
+<div align="right">
+  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="monkey typing">
 </div>
