@@ -34,7 +34,7 @@
   
   <a href="http://discord.gg/qdRneg87Br" align="center">
     <strong>Click here to access our community</strong>
-    <br/><br/>
+    <br/>
   </a>
   
   <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="200px" max-width="200px" width="200px" align="center" alt="discord badge">
