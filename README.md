@@ -27,7 +27,7 @@
   </div>
 </div>
 
-<div align="left" column>
+<div align="left">
   <h2>Be part of our discord commnunity:</h2>
 
   <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="200px" max-width="200px" width="200px" align="center" alt="discord badge">
@@ -35,8 +35,6 @@
   <a href="http://discord.gg/qdRneg87Br">
     <strong>click here to access our community</strong>
   </a>
-</div>
-
-<div align="right">
+  
   <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="monkey typing">
 </div>
