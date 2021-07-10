@@ -10,10 +10,8 @@
 > 
 >Aways open to learn new stuff!
 
-#### **🕹 Favorite languages:**
-* Typescript
-* Javascript
-* C and C++
+#### **🕹 Most used languages:**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCesar&layout=compact)](https://github.com/JosueCesar/github-readme-stats)
 
 #### **🎯 Languages i'm looking forward to:**
 * Elm
