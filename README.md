@@ -33,9 +33,9 @@
 <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="monkey typing">  
 
 
-><h2>$ whois "Arena Dev"</h2>
+><h2>$ whois "Code Arena"</h2>
 >
->**Arena Dev is a Discord Community** for developers, of all kinds, all techs and all levels, **since newbies til masters**, it's a place for **knowledge exchange**, **networking**, and also for **casual conversations**.
+>**Code Arena is a Discord Community** for developers, of all kinds, all techs and all levels, **since newbies til masters**, it's a place for **knowledge exchange**, **networking**, and also for **casual conversations**.
 >
 >**Join Our Community:**
 >
