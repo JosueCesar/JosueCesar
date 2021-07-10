@@ -40,4 +40,3 @@
 >**Join Our Community:**
 >
 ![Discord Banner 2](https://discordapp.com/api/guilds/862539409675911208/widget.png?style=banner2)
-</div> -->
