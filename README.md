@@ -1,41 +1,43 @@
-<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Coding">
+<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Coding Meme">
 
-<div>
-  <h1>Hi there, my name is Josué! 🙋🏻‍♂️</h1>
+<h1>> Hi there, my name is Josué! 🙋🏻‍♂️</h1>
 
-  <h2>Whoami?</h2>
+><h3>$ whoami</h3>
+>
+>I'm a **React Native mobile developer**, i work with **React Native** using **Typescript** and **Expo**. I also work with **React JS** for Web Development and **Node** for back-end.
+>
+>Also i'm a **System Analist Degree student** from **IF Goiano**
+> 
+>Aways open to learn new stuff!
 
-  <p align="left">
-    I'm a System Analist Degree student from IF Goiano, a React Native mobile developer, i work with
-    <strong>React Native</strong> using <strong>Typescript</strong> and <strong>Expo</strong>, i also work with <strong>React JS</strong> for Web Development and <strong>Node</strong> for back-end.<br/>Aways open to learn new stuff!
-    <br/>
-  </p>
+#### **🕹 Favorite languages:**
+* Typescript
+* Javascript
+* C and C++
 
-  <div>
-    <h3 align="left">🕹 Favorite languages:</h3>
-    <p align="left"><strong>Typescript</strong> and <strong>Javascript.</strong></p>
-  </div>
+#### **🎯 Languages i'm looking forward to:**
+* Elm
+* Dart
+* Go
 
-  <div>
-    <h3 align="left">🎯 Languages i'm looking forward to:</h3>
-    <p align="left"><strong>Elm, Dart</strong> and <strong>Go.</strong></p>
-  </div>
+#### **🛠 Tools:**
+* React Native
+* Styled Components
+* Expo
+* React
+* Node
+* TypeORM
+* Express
+* PGsql
 
-  <div>
-    <h3 align="left">🛠 Tools:</h3>
-    <p align="left"><strong>React, React Native</strong> and <strong>Node.</strong></p>
-  </div>
-</div>
+<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="monkey typing">  
 
-<div align="left">
-  <h2>Be part of our discord commnunity:</h2>
 
-  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="monkey typing">  
-  
-  <a href="http://discord.gg/qdRneg87Br" align="center">
-    <strong>Click here to access our community</strong>
-    <br/>
-  </a>
-  
-  <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/discord_badge.png" min-width="200px" max-width="200px" width="200px" align="center" alt="discord badge">
-</div>
+><h2>$ whois "Arena Dev"</h2>
+>
+>**Arena Dev is a Discord Community** for developers, of all kinds, all techs and all levels, **since newbies til masters**, it's a place for **knowledge exchange**, **networking**, and also for **casual conversations**.
+>
+>**Join Our Community:**
+>
+![Discord Banner 2](https://discordapp.com/api/guilds/862539409675911208/widget.png?style=banner2)
+</div> -->
