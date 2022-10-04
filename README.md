@@ -1,9 +1,7 @@
-<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Coding Meme">
-
 <h1>> Hi there, my name is Josué! 🙋🏻‍♂️</h1>
 
 ><h3>$ whoami</h3>
->
+><img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Coding Meme">
 >I'm a **React Native mobile developer**, i work with **React Native** using **Typescript** and **Expo**. I also work with **React JS** for Web Development and **Node** for back-end.
 >
 >Also i'm a **System Analist Degree student** from **IF Goiano**
