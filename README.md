@@ -1,12 +1,10 @@
 <h1>> Hi there, my name is Josué! 🙋🏻‍♂️</h1>
 
-><h3>$ whoami</h3>
-><img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Coding Meme">
->I'm a **React Native mobile developer**, i work with **React Native** using **Typescript** and **Expo**. I also work with **React JS** for Web Development and **Node** for back-end.
->
->Also i'm a **System Analist Degree student** from **IF Goiano**
-> 
->Aways open to learn new stuff!
+<h3>$ whoami</h3>
+<img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/hacking.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Coding Meme">
+
+>I'm a **DevSecOps Cloud Engineer**, and work with **AWS**, **K8S**, **Gitlab CI/CD** and more. I have a **React Native** developer background with **Typescript**, and also am a **System Analist Degree student** from **IF Goiano**.
+><br/><br/>Aways open to learn new stuff!
 
 #### **🕹 Most used languages:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCesar&layout=compact)](https://github.com/JosueCesar/github-readme-stats)
@@ -15,16 +13,6 @@
 * Elm
 * Dart
 * Go
-
-#### **🛠 Tools:**
-* React Native
-* Styled Components
-* Expo
-* React
-* Node
-* TypeORM
-* Express
-* PGsql
 
 <img src="https://github.com/JosueCesar/JosueCesar/blob/main/images/monkey-typing.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="monkey typing">  
 
